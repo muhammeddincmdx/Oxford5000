@@ -39,7 +39,7 @@ Windows bilgisayarlar için arama kısmına cmd ya da Komut istemi yazarak bu si
 
 
 
-![](2.png)
+![](3.png)
 
 Resimde de görüldüğü gibi bazı harfler bazı komutlara karşılık geliyor.
 |  |   |
@@ -89,7 +89,7 @@ You can access this black window by typing cmd or Command Prompt in the search s
 
 
 
-![](2.png)
+![](3.png)
 
 As seen in the picture, some letters correspond to some commands.
 | | |
