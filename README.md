@@ -1,4 +1,4 @@
-# 5000 Kelime Türkçe Karşılık Programı 
+# 5000 Kelime Türkçe İngilizce Çeviri Programı 
 
 
 #### Not: Bu repositorynin oluşturulmasında kaynak olarak kullanılan reposityory: https://github.com/dceyy/oxford5000
@@ -50,7 +50,7 @@ m | Programı devam ettirir.
 
 
 
-# 5000 Words Turkish Translation Program
+# 5000 Words Turkish English Translation Program
 
 
 #### Note: The repository used as a source in the creation of this repository: https://github.com/dceyy/oxford5000
